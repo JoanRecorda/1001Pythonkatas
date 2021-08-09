@@ -7,7 +7,7 @@ def test_answer():
     assert (quarter_of(2), 1)
     assert (quarter_of(3), 1)
     assert (quarter_of(4), 2)
-    assert (quarter_of(6), 2)
+    assert (quarter_of(5), 2)
     assert (quarter_of(8), 3)
     assert (quarter_of(9), 3)
     assert (quarter_of(11), 4)
