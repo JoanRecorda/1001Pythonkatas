@@ -46,4 +46,4 @@ NPM package and Jest library
 
 ### 5. FAQs
 
-#### I have no idea yeah
+#### I have no idea
